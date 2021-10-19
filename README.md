@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @imostom
 - ✨ I use C# to design and develop backend services and applications
 - 👀 I’m interested in Tech in its entirety
-- 🌱 I’m currently learning Android Mobile Development using Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 🌱 I’m currently learning Mobile Dev using Xamarin Forms. You can check back for projects on this
+- 💞️ I’m looking to collaborate on ..... #notdefined
+- 📫 How to reach me ... Twitter, Instagram: @iam_tomiwo
 
 <!---
 imostom/imostom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
