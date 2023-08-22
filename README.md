@@ -1,4 +1,4 @@
-## _👋 Hello, I’m Oluwatomiwo or Tomiwo (Tow-Me-Woe)_
+## _👋 Hello, I’m Oluwatomiwo or Tomiwo (Tow-Me-Whoa)_
 - ✨ I currently use C# to design and develop backend services and applications
 - 👀 I’m interested in Tech in its entirety
 - 🌱 I’m currently learning some amazing stuff. You can check back for projects on them
